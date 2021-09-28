@@ -1,0 +1,10 @@
+# run: conda create --name <env_name> --file=environment.yml
+dependencies:
+    - python==3.8.1
+    - numpy==1.20
+    - pandas
+    - pip
+    - pip:
+        - sqlalchemy
+        - scikit-learn
+        - tslearn
