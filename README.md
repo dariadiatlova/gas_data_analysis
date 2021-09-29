@@ -2,4 +2,4 @@
 
 Pull repository and run the cells in [notebook.ipynb](notebook/notebook.ipynb).
 
-There is a requitenmets file in case something will go wrong with yaml :)
+There is a [requirements.txt](requirements.txt) file in case something will go wrong with [environment.yml](environment.yml) :)
