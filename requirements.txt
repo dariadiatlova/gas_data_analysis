@@ -3,3 +3,4 @@ panda
 sqlalchemy
 scikit-learn
 tslearn
+plotly
